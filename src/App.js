@@ -63,7 +63,7 @@ function App() {
         paddingTop: "30px",
       }}
     >
-      <h1 style={{ color: "white" }}>Mousa Shtewy PDF Minimizer</h1>
+      <h1 style={{ color: "white", textAlign:"center" }}>Mousa Shtewy PDF Minimizer</h1>
       <label
         htmlFor="pdf_load"
         style={{
