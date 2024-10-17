@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mousa_shtewy/static/css/main.e6c13ad2.css",
-    "main.js": "/mousa_shtewy/static/js/main.4b018dc3.js",
+    "main.js": "/mousa_shtewy/static/js/main.454c4b49.js",
     "index.html": "/mousa_shtewy/index.html",
     "main.e6c13ad2.css.map": "/mousa_shtewy/static/css/main.e6c13ad2.css.map",
-    "main.4b018dc3.js.map": "/mousa_shtewy/static/js/main.4b018dc3.js.map"
+    "main.454c4b49.js.map": "/mousa_shtewy/static/js/main.454c4b49.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4b018dc3.js"
+    "static/js/main.454c4b49.js"
   ]
 }
